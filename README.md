@@ -3,11 +3,11 @@ This is a mini project that performs the FASTA sequence analyses the genome of E
 
 # FASTA analysis:
 In this project, I worked with the complete genome of E coli K-12 downloaded in FASTA format from NCBI.
-- Using Python and Biopython, displayed the genome ID, sequence length and calculated the AT and GC content for the first 10,000 bp.
+- Using Python and Biopython, displayed the genome ID, sequence length and calculated the AT and GC content.
 
 # Restriction enzyme analysis:
 - A list of common restriction enzymes was created.
-- Identified the number of restriction sites of the enzymes and their positions (first 10,000 bp).
+- Identified the number of restriction sites of the enzymes and their positions.
 
 # Visualization of the restriction site map:
 - Using ApE- A plasmid editor, a restriction map of the genome (first 10,000 bp) was created along with a list of the restriction enzymes.
