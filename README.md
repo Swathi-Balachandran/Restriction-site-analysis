@@ -29,3 +29,11 @@ In this project, I worked with the complete genome of E coli K-12 downloaded in 
 - Python and biopython to parse the sequences.
 - Microsoft Powershell to run the python script.
 - ApE and NEB Cutter (free bioinformatics tools; ApE requires installation) to visulaize the restriction sites
+
+# Sub-project:
+Using Matplotlib to visualize the the restriction sites of the first 10000bp of the genome.
+- Matplotlib was installed using Python and Biopython
+- A Python script was created that generated a dictionary of restriction enzymes.
+- The script identifies the positions of different restriction enzymes and displays the restriction sites as a linear plot on the X-Axis where each enzyme is represented as a coloured vertical line and their names displayed as diagonal texts.
+- As soon as you run the script, a window pops up, displaying the graph.
+  *Note* This sub-project use the files ecoli-map.py and the ecoli_fragment.fasta
